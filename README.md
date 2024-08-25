@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **BackEnd**
 
-- 🌱 I’m currently learning **MERN & Flutter**
-
 - 👯 I’m looking to collaborate on **any Project**
 
 - 💬 Ask me about **C,C#,Python,FrontEnd,SQL**
