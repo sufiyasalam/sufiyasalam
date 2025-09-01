@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any Project**
 
-- 💬 Ask me about **C,C#,Python,FrontEnd,SQL**
+- 💬 Ask me about **C,C#,JAVA,SQL,FULL STACK WEB DEVELOPMENT**
 
 - 📫 How to reach me **sufiyasalam1912@gmail.com**
 
