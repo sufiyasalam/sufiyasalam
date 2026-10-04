@@ -1,88 +1,69 @@
-# Hi, I'm Sufiya Salam 👋
+<div align="center">
 
-### Data Analytics & BI Enthusiast | SQL • Python • Excel • Power BI | Exploring GenAI
+# 👋 Hi, I'm Sufiya Salam
 
-I'm a Computer Science Engineering graduate currently pursuing an MBA in
-Data Science & Analytics, with a strong interest in Data Analytics,
-Business Intelligence, Product Analytics, and Generative AI.
+### 📊 Data Analytics & BI Enthusiast | 🐍 Python | 🗄️ SQL | 📈 Power BI | 🤖 GenAI
 
-I'm currently building my analytical and technical skills through
-hands-on learning, SQL problem solving, data visualization, and
-business-focused analytics projects.
+**B.E. Computer Science Engineering | MBA Data Science & Analytics**
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.E. in Computer Science & Engineering
-- 📊 Currently pursuing an MBA in Data Science & Analytics
-- 🔎 Interested in Data Analytics, Business Intelligence & Product Analytics
-- 🧮 Currently strengthening my SQL and analytical problem-solving skills
-- 📈 Learning to build data-driven dashboards and business insights
-- 🐍 Developing my Python skills for data analysis
-- 🤖 Exploring how Generative AI can enhance modern analytics workflows
-- 🚀 Aspiring to build a career in data-driven product and business teams
+🎓 Computer Science Engineering graduate currently pursuing an **MBA in Data Science & Analytics**.
+
+📊 Building my skills in **Data Analytics, Business Intelligence and Product Analytics**.
+
+🗄️ Currently strengthening my **SQL and analytical problem-solving** skills.
+
+🐍 Using **Python** for data analysis, preprocessing and machine learning.
+
+📈 Learning to transform raw data into **meaningful dashboards, KPIs and business insights**.
+
+🤖 Exploring how **Generative AI and LLMs** can enhance modern data analytics workflows.
+
+🎯 Currently working towards opportunities in **Data Analytics | BI | Product Analytics | AI-powered Analytics**.
+
+📍 Mysuru, India
 
 ---
 
-## 🛠️ Skills I'm Building
+## 🛠️ My Analytics Toolbox
 
-### Data Analytics
-- SQL
-- Python
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis
-- Statistical Analysis
-- Data Visualization
-- KPI Analysis
+### 📊 Data Analytics
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Business Intelligence
-- Microsoft Excel
-- Power BI
-- DAX
-- Power Query
-- Dashboard Development
-- Business Reporting
+### 📈 Business Intelligence
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Product & Business Analytics
-- Business Metrics & KPIs
-- Customer Analysis
-- Funnel Analysis
-- Cohort Analysis
-- Customer Segmentation
-- Retention Analysis
-- A/B Testing Fundamentals
+### 🤖 AI & Machine Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Generative AI
-- Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- AI-assisted Data Analysis
-- RAG Fundamentals
-
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-SQL
- ↓
-Advanced SQL
- ↓
-Excel
- ↓
+SQL & Advanced SQL
+        ↓
+Excel & Data Analysis
+        ↓
 Power BI & DAX
- ↓
-Python for Data Analysis
- ↓
+        ↓
+Python for Data Analytics
+        ↓
 Statistics & Product Analytics
- ↓
+        ↓
 Generative AI for Analytics
